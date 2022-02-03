@@ -63,10 +63,10 @@ Here are some ideas to get you started:
 <br/>
 <br/><br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuragc2001&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragc2001&count_private=true&show_icons=true&theme=tokyonight" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nuragc2001&layout=compact&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=anuragc2001&layout=compact&theme=dracula" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuragc2001&layout=compact&theme=react&count_private=false" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragc2001&layout=compact&theme=react&count_private=false" />
 
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=nuragc2001&theme=vision-friendly-dark)
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=anuragc2001&theme=vision-friendly-dark)
