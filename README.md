@@ -1,72 +1,35 @@
-<!-- ### Hi there 👋 -->
+<h1 align="center">Hi 👋, I'm Anurag</h1>
+<h3 align="center">Don’t worry if it doesn’t work right. If everything did, you’d be out of a job</h3>
 
-<!--
-**anuragc2001/anuragc2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragc2001&label=Profile%20views&color=0e75b6&style=flat" alt="anuragc2001" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragc2001" alt="anuragc2001" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Expense-Tracker](https://github.com/anuragc2001/Expense-Tracker)
 
-### Hi, Anurag here 👋
+- 🌱 I’m currently learning **React, Nextjs, Tensorflow**
 
+- 👨‍💻 All of my projects are available at [https://heyanurag.herokuapp.com/](https://heyanurag.herokuapp.com/)
 
-- 👨🏻‍🎓 Currently pursuing my B.Tech in CSE
-- 🔭 I’m currently working on Hackathons
-- 🌱 I’m currently learning Flutter + MERN Stack
-- 👯 I’m looking to collaborate on Creative Projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
-<!-- - 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...-->
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/niloysikdar/)
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 💬 Ask me about **react, nodejs, express, python, c++**
 
+- 📫 How to reach me **chakraborty.anurag01@gmail.com**
 
+- ⚡ Fun fact **It’s impossible to hum(vocal) while holding your nose**
 
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/aanurag2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aanurag2001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anuragchakraborty2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragchakraborty2001" height="30" width="40" /></a>
+<a href="https://fb.com/anurag.chakraborty.2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anurag.chakraborty.2001" height="30" width="40" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/niloysikdar/" target="_blank">
-  <img align="left" alt="Niloy Sikdar | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://play.google.com/store/apps/dev?id=6194928995061750437" target="_blank">
-  <img align="left" alt="Niloy Sikdar | Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-</a>
-<a href="https://niloysikdar.medium.com/" target="_blank">
-  <img align="left" alt="Niloy Sikdar | Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragc2001&show_icons=true&locale=en&layout=compact" alt="anuragc2001" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragc2001&show_icons=true&locale=en" alt="anuragc2001" /></p>
 
-### Languages and Tools:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragc2001&" alt="anuragc2001" /></p>
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
-<img align="left" alt="Dart" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-<img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
-<img align="left" alt="Python" width="30px" src="https://i.imgur.com/gnK58k4.png">
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br/>
-<br/><br/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragc2001&count_private=true&show_icons=true&theme=tokyonight" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=anuragc2001&layout=compact&theme=dracula" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragc2001&layout=compact&theme=react&count_private=false" />
-
-<!-- ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=anuragc2001&theme=vision-friendly-dark) -->
