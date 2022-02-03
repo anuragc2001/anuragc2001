@@ -69,4 +69,4 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragc2001&layout=compact&theme=react&count_private=false" />
 
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=anuragc2001&theme=vision-friendly-dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=anuragc2001&theme=vision-friendly-dark) -->
