@@ -1,7 +1,7 @@
 #  Hi 👋, I'm Anurag
 ### What if birds are secretly drones that recharge by sitting on power lines? 👀
 
-<img src="https://komarev.com/ghpvc/?username=anuragc2001&label=Profile%20views&color=0e75b6&style=flat"  alt="anuragc2001"  />
+<img src="https://komarev.com/ghpvc/?username=anuragc2001&label=Profile%20views&color=blueviolet&style=flat"  alt="anuragc2001"  />
 
   
 
