@@ -56,7 +56,7 @@ Like My Work? -->
 	
   <p><b>⚡ Github Stats</b></p>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuragc2001&count_private=true&show_icons=true&theme=tokyonight&count_private=true" />&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragc2001&layout=compact&theme=react&count_private=false"/>
+  <img height="173em" src="https://github-readme-stats.vercel.app/api?username=anuragc2001&count_private=true&show_icons=true&theme=tokyonight&count_private=true" />&nbsp;&nbsp;<img height="173em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragc2001&layout=compact&theme=react&count_private=false"/>
 
   <details align="center">
   <summary><b>More stats</b></summary>
