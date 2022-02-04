@@ -36,10 +36,10 @@ Like My Work? -->
 - ⚡ &nbsp; Fun fact It’s impossible to hum(vocal) while holding your nose
 - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
-<img align="right" src="https://readme-spotify.warengonzaga.com/api/spotify" />
 
 <!-- [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l) -->
 ### My Absolute Favorites:
+<img align="right" src="https://readme-spotify.warengonzaga.com/api/spotify" />
 
 - 💻 &nbsp; I enjoy getting my hands dirty with new upcoming technologies
 - 📰 &nbsp; I enjoy reading about human behavioural pyschology
