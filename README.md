@@ -60,4 +60,4 @@
 
 <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=anuragc2001&theme=vision-friendly-dark"  alt="anuragc2001"  /></p>
 
-[![Anurag's github activity graph](https://activity-graph.herokuapp.com/graph?username=anuragc2001&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anurag's github activity graph](https://activity-graph.herokuapp.com/graph?username=anuragc2001&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
