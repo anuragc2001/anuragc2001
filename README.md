@@ -50,11 +50,11 @@
   
   
 
-<p><img  src="https://github-readme-stats.vercel.app/api?username=anuragc2001&count_private=true&show_icons=true&theme=tokyonight&count_private=true"  alt="anuragc2001"/></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=anuragc2001&count_private=true&show_icons=true&theme=tokyonight&count_private=true"  alt="anuragc2001"/></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragc2001&layout=compact&theme=react&count_private=false"  alt="anuragc2001"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragc2001&layout=compact&theme=react&count_private=false"  alt="anuragc2001"/></p>
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=anuragc2001&theme=material-palenight"  alt="anuragc2001"/></p>
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=anuragc2001&theme=material-palenight"  alt="anuragc2001"/></p>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=anuragc2001&theme=vision-friendly-dark"  alt="anuragc2001"  /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=anuragc2001&theme=vision-friendly-dark"  alt="anuragc2001"  /></p>
 
