@@ -29,7 +29,6 @@ Like My Work? -->
 ### Talking about Personal Stuffs:
 
 - 🔭 &nbsp; I’m currently working on [Expense-Tracker](https://github.com/anuragc2001/Expense-Tracker)
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development and Data Science.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/anuragc2001).
 - 💬 &nbsp; Ask me about **Blockchain, Smart Contracts, NFTs**
