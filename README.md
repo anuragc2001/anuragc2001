@@ -50,9 +50,9 @@
   
   
 
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=anuragc2001&count_private=true&show_icons=true&theme=tokyonight&count_private=true"  alt="anuragc2001"/>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api?username=anuragc2001&count_private=true&show_icons=true&theme=tokyonight&count_private=true"  alt="anuragc2001"/></p>
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragc2001&layout=compact&theme=react&count_private=false"  alt="anuragc2001"/> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragc2001&layout=compact&theme=react&count_private=false"  alt="anuragc2001"/></p>
 
 [![Anurag's github activity graph](https://activity-graph.herokuapp.com/graph?username=anuragc2001&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
