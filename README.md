@@ -8,7 +8,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragc2001"  alt="anuragc2001"  /></a>
 
   
-![](https://github.com/anuragc2001/github-stats/blob/master/generated/overview.svg)
+<img align="right" width="350" height="200" src="https://github.com/anuragc2001/github-stats/blob/master/generated/overview.svg"> 
 
 -  👨🏻‍🎓 Currently pursuing my B.Tech in CSE
 
