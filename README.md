@@ -48,7 +48,9 @@ Like My Work? -->
 ### 🎧 Spotify Playing
 <p></p>
 
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
+[![Spotify](https://novatorem-anuragc2001.vercel.app/api/spotify)](https://open.spotify.com/user/315pzbkoe7qrbdyikfhtvevb6odq)
+
+
 
 ### Languages and Tools:
 
