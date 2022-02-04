@@ -8,6 +8,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragc2001"  alt="anuragc2001"  /></a>
 
   
+![](https://github.com/anuragc2001/github-stats/blob/master/generated/overview.svg)
 
 -  👨🏻‍🎓 Currently pursuing my B.Tech in CSE
 
@@ -51,7 +52,8 @@
 
 <p><img align="center"  src="https://github-readme-stats.vercel.app/api?username=anuragc2001&count_private=true&show_icons=true&theme=tokyonight&count_private=true"  alt="anuragc2001"/></p>
   
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragc2001&layout=compact&theme=react&count_private=false"  alt="anuragc2001"/> ![](https://github.com/anuragc2001/github-stats/blob/master/generated/overview.svg)
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragc2001&layout=compact&theme=react&count_private=false"  alt="anuragc2001"/> 
+
   
 
 <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=anuragc2001&theme=vision-friendly-dark"  alt="anuragc2001"  />
