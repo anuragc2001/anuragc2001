@@ -12,13 +12,6 @@
 I'm an undergraduate in Computer Science 🎓 from Kalyani Government Engineering College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 <br>
 
-<!-- Joined Github **3** years ago.
-
-Since then I pushed **1859**+ commits, opened **227**+ issues, submitted **254**+ pull requests, created **20**+ gists and contributed to **11**+ public repositories.
-
-Like My Work? -->
-<!-- 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a> -->
 
 <img align="right" width="350" height="200" src="https://github.com/anuragc2001/github-stats/blob/master/generated/overview.svg"> 
 
