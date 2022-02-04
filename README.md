@@ -6,13 +6,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/anuragchakrab0rty/?hl=en)
 [![Telegram Badge](https://img.shields.io/badge/-facebook-1778F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/anurag.chakraborty.2001/)
 
-<br>
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=anuragc2001&label=Profile%20views&color=blueviolet&style=flat)
 
 I'm an undergraduate in Computer Science 🎓 from Kalyani Government Engineering College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 <br>
-<br>
+
 
 <!-- Joined Github **3** years ago.
 
@@ -39,7 +38,7 @@ Like My Work? -->
 - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
 <!-- [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l) -->
-<br/>
+
 
 ### My Absolute Favorites:
 
@@ -49,14 +48,14 @@ Like My Work? -->
 - 📰 &nbsp; I enjoy reading about human behavioural pyschology
 - 🍕 &nbsp;&nbsp; I'm a Biryani aficionado
 
-<br/>
+
 
 ### 🎧 Spotify Playing
 <p></p>
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
-<br>
+
 
 ### Languages and Tools:
 
@@ -135,7 +134,7 @@ Like My Work? -->
   </table>
   <br />
 </details> -->
-<br/>
+
 
 ### Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
