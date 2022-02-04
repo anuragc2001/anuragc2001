@@ -74,6 +74,7 @@ Like My Work? -->
 
   <details align="center">
   <summary><b>More stats</b></summary>
+  <p></p>
   <img src="https://activity-graph.herokuapp.com/graph?username=anuragc2001&theme=material-palenight" />
   </details>
   
