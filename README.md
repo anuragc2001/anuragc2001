@@ -60,7 +60,7 @@ Like My Work? -->
 
   <details align="center">
   <summary><b>More stats</b></summary>
-  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=anuragc2001&theme=material-palenight" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=anuragc2001&theme=material-palenight" />
   </details>
   
 <details><summary><b>🏆 Trophies</b></summary>
