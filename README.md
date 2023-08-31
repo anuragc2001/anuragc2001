@@ -38,12 +38,6 @@ I'm an undergraduate in Computer Science 🎓 from Kalyani Government Engineerin
 - 📰 &nbsp; I love reading Kinesics books
 - 🍕 &nbsp;&nbsp; I'm a Biryani aficionado
 
-### 🎧 Spotify Playing
-<p></p>
-
-[![Spotify](https://novatorem-anuragc2001.vercel.app/api/spotify)](https://open.spotify.com/user/315pzbkoe7qrbdyikfhtvevb6odq)
-
-
 
 ### Languages and Tools:
 
@@ -62,18 +56,8 @@ I'm an undergraduate in Computer Science 🎓 from Kalyani Government Engineerin
   <p><b>⚡ Github Stats</b></p>
 
   <img height="173em" src="https://github-readme-stats.vercel.app/api?username=anuragc2001&count_private=true&show_icons=true&theme=tokyonight&count_private=true" />&nbsp;<img height="173em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragc2001&layout=compact&theme=react&count_private=false"/>
-
-  <details align="center">
-  <summary><b>More stats</b></summary>
-  <p></p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=anuragc2001&theme=material-palenight" />
-  </details>
   
 <details><summary><b>🏆 Trophies</b></summary>
 <p align="left">
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=anuragc2001&column=7&theme=tokyonight&no-frame=true"/>
 </details>
-
-
-### Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/anuragc2001/anuragc2001/output/github-contribution-grid-snake.svg)
